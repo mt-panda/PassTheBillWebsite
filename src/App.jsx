@@ -203,7 +203,7 @@ function App() {
               <span className="section-label">GET STARTED</span>
               <h2>Make the next<br /><span>lunch easy.</span></h2>
               <p>Get PassTheBill on Android and bring your team lunch into one simple place.</p>
-              <a className="primary download-button" href="#download">Download APK <span>↓</span></a>
+              <a className="primary download-button" href="https://github.com/mt-panda/PassTheBill/releases/download/v1.0.0/PassTheBill.v1.0.0.apk">Download APK <span>↓</span></a>
               <small>Android · Free · Team invite required</small>
             </div>
             <div className="download-card">
